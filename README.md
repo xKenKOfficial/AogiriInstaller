@@ -1,0 +1,2 @@
+# AogiriInstaller
+AogiriX installation file.
