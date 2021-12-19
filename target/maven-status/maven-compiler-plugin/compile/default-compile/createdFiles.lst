@@ -1,0 +1,13 @@
+x\KenKOfficial\Installer\Installation\InstallationPacket.class
+x\KenKOfficial\Installer\Buttons\QuitButton$1.class
+x\KenKOfficial\Installer\Buttons\DiscordButton.class
+x\KenKOfficial\Installer\Buttons\InstallButton$1.class
+x\KenKOfficial\Installer\Utils\OpenWebUtil.class
+x\KenKOfficial\Installer\Windows\InstallerWindow.class
+x\KenKOfficial\Installer\Buttons\DiscordButton$1.class
+x\KenKOfficial\Installer\Buttons\QuitButton.class
+x\KenKOfficial\Installer\Buttons\InstallButton.class
+x\KenKOfficial\Installer\Utils\OSHelper.class
+x\KenKOfficial\Installer\Panels\InstallatorPanel.class
+x\KenKOfficial\Installer\Utils\UnzipUtility.class
+x\KenKOfficial\Installer\Main\Main.class
